@@ -1,4 +1,5 @@
 # Databricks Vector Search MCP — Energy Data & Claude Desktop
+<img width="1052" height="617" alt="image" src="https://github.com/user-attachments/assets/6733277f-a4b0-4ab4-bdd0-6089d9ed26cc" />
 
 This project demonstrates an end-to-end **Model Context Protocol (MCP)** setup: **customer energy (kWh) data** in Databricks is embedded and indexed with **Databricks Vector Search**, exposed through **Databricks’ hosted MCP Vector Search API**, and consumed from **Claude Desktop**—either directly via the hosted URL or through a local **stdio bridge** that authenticates with Azure AD or a personal access token (PAT).
 
