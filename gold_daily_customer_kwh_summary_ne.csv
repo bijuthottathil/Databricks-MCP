@@ -1,35 +1,35 @@
-customer_id,first_name,last_name,city,state,plan_id,plan_name,rate_per_kwh,reading_date,total_kwh_daily,num_readings_daily,avg_kwh_per_reading_daily,calculated_cost_daily
-CUST00001,Carla,Stewart,Cantuberg,MP,PLAN001,Fixed Rate 12,0.1418,2026-03-02,1.01,1,1.01,0.14
-CUST00033,Tabitha,Wallace,Curtiston,UT,PLAN003,Green Energy 24,0.2267,2026-03-02,5.03,1,5.03,1.14
-CUST00040,Daniel,Jones,Davidside,RI,PLAN005,Weekend Special,0.2211,2026-03-02,2.46,1,2.46,0.54
-CUST00002,Michael,Mullen,Riveraville,MA,PLAN002,Variable Rate 6,0.1603,2026-03-02,2.62,1,2.62,0.42
-CUST00003,Christina,Brooks,Millershire,MS,PLAN003,Green Energy 24,0.2267,2026-03-02,3.53,1,3.53,0.8
-CUST00004,Jesse,Perez,Suarezbury,AR,PLAN004,Time-of-Use,0.2032,2026-03-02,2.36,1,2.36,0.48
-CUST00006,Diamond,Bennett,Donaldshire,NH,PLAN001,Fixed Rate 12,0.1418,2026-03-02,5.97,2,2.98,0.85
-CUST00008,Michelle,White,South Tina,KS,PLAN003,Green Energy 24,0.2267,2026-03-02,3.6,1,3.6,0.82
-CUST00010,April,Burton,Port Matthew,ME,PLAN005,Weekend Special,0.2211,2026-03-02,1.8,1,1.8,0.4
-CUST00012,Jennifer,Cameron,West Annette,VI,PLAN002,Variable Rate 6,0.1603,2026-03-02,6.36,3,2.12,1.02
-CUST00017,Diana,Campbell,Port Christopher,LA,PLAN002,Variable Rate 6,0.1603,2026-03-02,9,3,3,1.44
-CUST00018,Daniel,Young,Smithland,AL,PLAN003,Green Energy 24,0.2267,2026-03-02,8.21,4,2.05,1.86
-CUST00019,Tammy,Braun,South Morgan,CA,PLAN004,Time-of-Use,0.2032,2026-03-02,3.96,2,1.98,0.8
-CUST00020,Cameron,Morrison,Port Denise,WI,PLAN005,Weekend Special,0.2211,2026-03-02,1.86,1,1.86,0.41
-CUST00022,John,Peterson,Lisaville,FL,PLAN002,Variable Rate 6,0.1603,2026-03-02,7.71,2,3.86,1.24
-CUST00023,Rachel,Baker,Danielsstad,VA,PLAN003,Green Energy 24,0.2267,2026-03-02,7.72,3,2.57,1.75
-CUST00024,Julie,White,South Samuelland,WI,PLAN004,Time-of-Use,0.2032,2026-03-02,3.93,1,3.93,0.8
-CUST00025,Jason,Robinson,North John,HI,PLAN005,Weekend Special,0.2211,2026-03-02,0.35,1,0.35,0.08
-CUST00027,Mary,Bentley,Breannabury,WV,PLAN002,Variable Rate 6,0.1603,2026-03-02,7.42,2,3.71,1.19
-CUST00028,Robert,Benitez,Gutierrezview,MN,PLAN003,Green Energy 24,0.2267,2026-03-02,3.14,1,3.14,0.71
-CUST00031,Alan,Burke,Davidton,MI,PLAN001,Fixed Rate 12,0.1418,2026-03-02,5.46,2,2.73,0.77
-CUST00032,Christopher,Campos,East Debra,OK,PLAN002,Variable Rate 6,0.1603,2026-03-02,1.53,1,1.53,0.25
-CUST00034,Amanda,Nolan,New Taylor,NJ,PLAN004,Time-of-Use,0.2032,2026-03-02,3.03,3,1.01,0.62
-CUST00035,Danielle,Pitts,Michaelshire,MS,PLAN005,Weekend Special,0.2211,2026-03-02,4.65,1,4.65,1.03
-CUST00036,Terrance,Ramsey,Roberthaven,NH,PLAN001,Fixed Rate 12,0.1418,2026-03-02,0.37,1,0.37,0.05
-CUST00037,Tiffany,Woodard,Stephenchester,AR,PLAN002,Variable Rate 6,0.1603,2026-03-02,8.28,2,4.14,1.33
-CUST00038,Candice,Austin,Lopezhaven,IN,PLAN003,Green Energy 24,0.2267,2026-03-02,2.24,1,2.24,0.51
-CUST00039,Latasha,Wong,Johnsonfurt,NC,PLAN004,Time-of-Use,0.2032,2026-03-02,5.11,1,5.11,1.04
-CUST00041,Michael,Robertson,Jamiemouth,MS,PLAN001,Fixed Rate 12,0.1418,2026-03-02,0.55,1,0.55,0.08
-CUST00046,Jessica,Bennett,New Josephmouth,AK,PLAN001,Fixed Rate 12,0.1418,2026-03-02,2.65,1,2.65,0.38
-CUST00049,Joyce,Williams,Port Brendan,WA,PLAN004,Time-of-Use,0.2032,2026-03-02,5.29,1,5.29,1.07
-CUST00050,Alexandra,Morris,Bennettmouth,MI,PLAN005,Weekend Special,0.2211,2026-03-02,7.13,3,2.38,1.58
-CUST00007,John,Gallagher,Lake Elizabethshire,FL,PLAN002,Variable Rate 6,0.1603,2026-03-02,8.96,3,2.99,1.44
-CUST00021,Amy,Herrera,Port Jenniferville,MS,PLAN001,Fixed Rate 12,0.1418,2026-03-02,6.99,3,2.33,0.99
+customer_id,first_name,last_name,city,state,plan_id,plan_name,rate_per_kwh,reading_date,total_kwh_daily,num_readings_daily,avg_kwh_per_reading_daily,calculated_cost_daily,search_text
+CUST00001,Carla,Stewart,Cantuberg,MP,PLAN001,Fixed Rate 12,0.1418,3/2/26,1.01,1,1.01,0.14,"Customer: Carla Stewart. Location: Cantuberg, MP. Energy plan: Fixed Rate 12 (Plan ID: PLAN001). Low energy usage: 1.01 kWh per day. Daily cost: $0.14 at rate $0.1418 per kWh. Reading date: 2026-03-02."
+CUST00033,Tabitha,Wallace,Curtiston,UT,PLAN003,Green Energy 24,0.2267,3/2/26,5.03,1,5.03,1.14,"Customer: Tabitha Wallace. Location: Curtiston, UT. Energy plan: Green Energy 24 (Plan ID: PLAN003). Low energy usage: 5.03 kWh per day. Daily cost: $1.14 at rate $0.2267 per kWh. Reading date: 2026-03-02."
+CUST00040,Daniel,Jones,Davidside,RI,PLAN005,Weekend Special,0.2211,3/2/26,2.46,1,2.46,0.54,"Customer: Daniel Jones. Location: Davidside, RI. Energy plan: Weekend Special (Plan ID: PLAN005). Low energy usage: 2.46 kWh per day. Daily cost: $0.54 at rate $0.2211 per kWh. Reading date: 2026-03-02."
+CUST00002,Michael,Mullen,Riveraville,MA,PLAN002,Variable Rate 6,0.1603,3/2/26,2.62,1,2.62,0.42,"Customer: Michael Mullen. Location: Riveraville, MA. Energy plan: Variable Rate 6 (Plan ID: PLAN002). Low energy usage: 2.62 kWh per day. Daily cost: $0.42 at rate $0.1603 per kWh. Reading date: 2026-03-02."
+CUST00003,Christina,Brooks,Millershire,MS,PLAN003,Green Energy 24,0.2267,3/2/26,3.53,1,3.53,0.8,"Customer: Christina Brooks. Location: Millershire, MS. Energy plan: Green Energy 24 (Plan ID: PLAN003). Low energy usage: 3.53 kWh per day. Daily cost: $0.8 at rate $0.2267 per kWh. Reading date: 2026-03-02."
+CUST00004,Jesse,Perez,Suarezbury,AR,PLAN004,Time-of-Use,0.2032,3/2/26,2.36,1,2.36,0.48,"Customer: Jesse Perez. Location: Suarezbury, AR. Energy plan: Time-of-Use (Plan ID: PLAN004). Low energy usage: 2.36 kWh per day. Daily cost: $0.48 at rate $0.2032 per kWh. Reading date: 2026-03-02."
+CUST00006,Diamond,Bennett,Donaldshire,NH,PLAN001,Fixed Rate 12,0.1418,3/2/26,5.97,2,2.98,0.85,"Customer: Diamond Bennett. Location: Donaldshire, NH. Energy plan: Fixed Rate 12 (Plan ID: PLAN001). Low energy usage: 5.97 kWh per day. Daily cost: $0.85 at rate $0.1418 per kWh. Reading date: 2026-03-02."
+CUST00008,Michelle,White,South Tina,KS,PLAN003,Green Energy 24,0.2267,3/2/26,3.6,1,3.6,0.82,"Customer: Michelle White. Location: South Tina, KS. Energy plan: Green Energy 24 (Plan ID: PLAN003). Low energy usage: 3.6 kWh per day. Daily cost: $0.82 at rate $0.2267 per kWh. Reading date: 2026-03-02."
+CUST00010,April,Burton,Port Matthew,ME,PLAN005,Weekend Special,0.2211,3/2/26,1.8,1,1.8,0.4,"Customer: April Burton. Location: Port Matthew, ME. Energy plan: Weekend Special (Plan ID: PLAN005). Low energy usage: 1.8 kWh per day. Daily cost: $0.4 at rate $0.2211 per kWh. Reading date: 2026-03-02."
+CUST00012,Jennifer,Cameron,West Annette,VI,PLAN002,Variable Rate 6,0.1603,3/2/26,6.36,3,2.12,1.02,"Customer: Jennifer Cameron. Location: West Annette, VI. Energy plan: Variable Rate 6 (Plan ID: PLAN002). Low energy usage: 6.36 kWh per day. Daily cost: $1.02 at rate $0.1603 per kWh. Reading date: 2026-03-02."
+CUST00017,Diana,Campbell,Port Christopher,LA,PLAN002,Variable Rate 6,0.1603,3/2/26,9,3,3,1.44,"Customer: Diana Campbell. Location: Port Christopher, LA. Energy plan: Variable Rate 6 (Plan ID: PLAN002). Low energy usage: 9.0 kWh per day. Daily cost: $1.44 at rate $0.1603 per kWh. Reading date: 2026-03-02."
+CUST00018,Daniel,Young,Smithland,AL,PLAN003,Green Energy 24,0.2267,3/2/26,8.21,4,2.05,1.86,"Customer: Daniel Young. Location: Smithland, AL. Energy plan: Green Energy 24 (Plan ID: PLAN003). Low energy usage: 8.21 kWh per day. Daily cost: $1.86 at rate $0.2267 per kWh. Reading date: 2026-03-02."
+CUST00019,Tammy,Braun,South Morgan,CA,PLAN004,Time-of-Use,0.2032,3/2/26,3.96,2,1.98,0.8,"Customer: Tammy Braun. Location: South Morgan, CA. Energy plan: Time-of-Use (Plan ID: PLAN004). Low energy usage: 3.96 kWh per day. Daily cost: $0.8 at rate $0.2032 per kWh. Reading date: 2026-03-02."
+CUST00020,Cameron,Morrison,Port Denise,WI,PLAN005,Weekend Special,0.2211,3/2/26,1.86,1,1.86,0.41,"Customer: Cameron Morrison. Location: Port Denise, WI. Energy plan: Weekend Special (Plan ID: PLAN005). Low energy usage: 1.86 kWh per day. Daily cost: $0.41 at rate $0.2211 per kWh. Reading date: 2026-03-02."
+CUST00022,John,Peterson,Lisaville,FL,PLAN002,Variable Rate 6,0.1603,3/2/26,7.71,2,3.86,1.24,"Customer: John Peterson. Location: Lisaville, FL. Energy plan: Variable Rate 6 (Plan ID: PLAN002). Low energy usage: 7.71 kWh per day. Daily cost: $1.24 at rate $0.1603 per kWh. Reading date: 2026-03-02."
+CUST00023,Rachel,Baker,Danielsstad,VA,PLAN003,Green Energy 24,0.2267,3/2/26,7.72,3,2.57,1.75,"Customer: Rachel Baker. Location: Danielsstad, VA. Energy plan: Green Energy 24 (Plan ID: PLAN003). Low energy usage: 7.72 kWh per day. Daily cost: $1.75 at rate $0.2267 per kWh. Reading date: 2026-03-02."
+CUST00024,Julie,White,South Samuelland,WI,PLAN004,Time-of-Use,0.2032,3/2/26,3.93,1,3.93,0.8,"Customer: Julie White. Location: South Samuelland, WI. Energy plan: Time-of-Use (Plan ID: PLAN004). Low energy usage: 3.93 kWh per day. Daily cost: $0.8 at rate $0.2032 per kWh. Reading date: 2026-03-02."
+CUST00025,Jason,Robinson,North John,HI,PLAN005,Weekend Special,0.2211,3/2/26,0.35,1,0.35,0.08,"Customer: Jason Robinson. Location: North John, HI. Energy plan: Weekend Special (Plan ID: PLAN005). Low energy usage: 0.35 kWh per day. Daily cost: $0.08 at rate $0.2211 per kWh. Reading date: 2026-03-02."
+CUST00027,Mary,Bentley,Breannabury,WV,PLAN002,Variable Rate 6,0.1603,3/2/26,7.42,2,3.71,1.19,"Customer: Mary Bentley. Location: Breannabury, WV. Energy plan: Variable Rate 6 (Plan ID: PLAN002). Low energy usage: 7.42 kWh per day. Daily cost: $1.19 at rate $0.1603 per kWh. Reading date: 2026-03-02."
+CUST00028,Robert,Benitez,Gutierrezview,MN,PLAN003,Green Energy 24,0.2267,3/2/26,3.14,1,3.14,0.71,"Customer: Robert Benitez. Location: Gutierrezview, MN. Energy plan: Green Energy 24 (Plan ID: PLAN003). Low energy usage: 3.14 kWh per day. Daily cost: $0.71 at rate $0.2267 per kWh. Reading date: 2026-03-02."
+CUST00031,Alan,Burke,Davidton,MI,PLAN001,Fixed Rate 12,0.1418,3/2/26,5.46,2,2.73,0.77,"Customer: Alan Burke. Location: Davidton, MI. Energy plan: Fixed Rate 12 (Plan ID: PLAN001). Low energy usage: 5.46 kWh per day. Daily cost: $0.77 at rate $0.1418 per kWh. Reading date: 2026-03-02."
+CUST00032,Christopher,Campos,East Debra,OK,PLAN002,Variable Rate 6,0.1603,3/2/26,1.53,1,1.53,0.25,"Customer: Christopher Campos. Location: East Debra, OK. Energy plan: Variable Rate 6 (Plan ID: PLAN002). Low energy usage: 1.53 kWh per day. Daily cost: $0.25 at rate $0.1603 per kWh. Reading date: 2026-03-02."
+CUST00034,Amanda,Nolan,New Taylor,NJ,PLAN004,Time-of-Use,0.2032,3/2/26,3.03,3,1.01,0.62,"Customer: Amanda Nolan. Location: New Taylor, NJ. Energy plan: Time-of-Use (Plan ID: PLAN004). Low energy usage: 3.03 kWh per day. Daily cost: $0.62 at rate $0.2032 per kWh. Reading date: 2026-03-02."
+CUST00035,Danielle,Pitts,Michaelshire,MS,PLAN005,Weekend Special,0.2211,3/2/26,4.65,1,4.65,1.03,"Customer: Danielle Pitts. Location: Michaelshire, MS. Energy plan: Weekend Special (Plan ID: PLAN005). Low energy usage: 4.65 kWh per day. Daily cost: $1.03 at rate $0.2211 per kWh. Reading date: 2026-03-02."
+CUST00036,Terrance,Ramsey,Roberthaven,NH,PLAN001,Fixed Rate 12,0.1418,3/2/26,0.37,1,0.37,0.05,"Customer: Terrance Ramsey. Location: Roberthaven, NH. Energy plan: Fixed Rate 12 (Plan ID: PLAN001). Low energy usage: 0.37 kWh per day. Daily cost: $0.05 at rate $0.1418 per kWh. Reading date: 2026-03-02."
+CUST00037,Tiffany,Woodard,Stephenchester,AR,PLAN002,Variable Rate 6,0.1603,3/2/26,8.28,2,4.14,1.33,"Customer: Tiffany Woodard. Location: Stephenchester, AR. Energy plan: Variable Rate 6 (Plan ID: PLAN002). Low energy usage: 8.28 kWh per day. Daily cost: $1.33 at rate $0.1603 per kWh. Reading date: 2026-03-02."
+CUST00038,Candice,Austin,Lopezhaven,IN,PLAN003,Green Energy 24,0.2267,3/2/26,2.24,1,2.24,0.51,"Customer: Candice Austin. Location: Lopezhaven, IN. Energy plan: Green Energy 24 (Plan ID: PLAN003). Low energy usage: 2.24 kWh per day. Daily cost: $0.51 at rate $0.2267 per kWh. Reading date: 2026-03-02."
+CUST00039,Latasha,Wong,Johnsonfurt,NC,PLAN004,Time-of-Use,0.2032,3/2/26,5.11,1,5.11,1.04,"Customer: Latasha Wong. Location: Johnsonfurt, NC. Energy plan: Time-of-Use (Plan ID: PLAN004). Low energy usage: 5.11 kWh per day. Daily cost: $1.04 at rate $0.2032 per kWh. Reading date: 2026-03-02."
+CUST00041,Michael,Robertson,Jamiemouth,MS,PLAN001,Fixed Rate 12,0.1418,3/2/26,0.55,1,0.55,0.08,"Customer: Michael Robertson. Location: Jamiemouth, MS. Energy plan: Fixed Rate 12 (Plan ID: PLAN001). Low energy usage: 0.55 kWh per day. Daily cost: $0.08 at rate $0.1418 per kWh. Reading date: 2026-03-02."
+CUST00046,Jessica,Bennett,New Josephmouth,AK,PLAN001,Fixed Rate 12,0.1418,3/2/26,2.65,1,2.65,0.38,"Customer: Jessica Bennett. Location: New Josephmouth, AK. Energy plan: Fixed Rate 12 (Plan ID: PLAN001). Low energy usage: 2.65 kWh per day. Daily cost: $0.38 at rate $0.1418 per kWh. Reading date: 2026-03-02."
+CUST00049,Joyce,Williams,Port Brendan,WA,PLAN004,Time-of-Use,0.2032,3/2/26,5.29,1,5.29,1.07,"Customer: Joyce Williams. Location: Port Brendan, WA. Energy plan: Time-of-Use (Plan ID: PLAN004). Low energy usage: 5.29 kWh per day. Daily cost: $1.07 at rate $0.2032 per kWh. Reading date: 2026-03-02."
+CUST00050,Alexandra,Morris,Bennettmouth,MI,PLAN005,Weekend Special,0.2211,3/2/26,7.13,3,2.38,1.58,"Customer: Alexandra Morris. Location: Bennettmouth, MI. Energy plan: Weekend Special (Plan ID: PLAN005). Low energy usage: 7.13 kWh per day. Daily cost: $1.58 at rate $0.2211 per kWh. Reading date: 2026-03-02."
+CUST00007,John,Gallagher,Lake Elizabethshire,FL,PLAN002,Variable Rate 6,0.1603,3/2/26,8.96,3,2.99,1.44,"Customer: John Gallagher. Location: Lake Elizabethshire, FL. Energy plan: Variable Rate 6 (Plan ID: PLAN002). Low energy usage: 8.96 kWh per day. Daily cost: $1.44 at rate $0.1603 per kWh. Reading date: 2026-03-02."
+CUST00021,Amy,Herrera,Port Jenniferville,MS,PLAN001,Fixed Rate 12,0.1418,3/2/26,6.99,3,2.33,0.99,"Customer: Amy Herrera. Location: Port Jenniferville, MS. Energy plan: Fixed Rate 12 (Plan ID: PLAN001). Low energy usage: 6.99 kWh per day. Daily cost: $0.99 at rate $0.1418 per kWh. Reading date: 2026-03-02."
