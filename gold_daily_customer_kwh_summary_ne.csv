@@ -1,0 +1,35 @@
+customer_id,first_name,last_name,city,state,plan_id,plan_name,rate_per_kwh,reading_date,total_kwh_daily,num_readings_daily,avg_kwh_per_reading_daily,calculated_cost_daily
+CUST00001,Carla,Stewart,Cantuberg,MP,PLAN001,Fixed Rate 12,0.1418,2026-03-02,1.01,1,1.01,0.14
+CUST00033,Tabitha,Wallace,Curtiston,UT,PLAN003,Green Energy 24,0.2267,2026-03-02,5.03,1,5.03,1.14
+CUST00040,Daniel,Jones,Davidside,RI,PLAN005,Weekend Special,0.2211,2026-03-02,2.46,1,2.46,0.54
+CUST00002,Michael,Mullen,Riveraville,MA,PLAN002,Variable Rate 6,0.1603,2026-03-02,2.62,1,2.62,0.42
+CUST00003,Christina,Brooks,Millershire,MS,PLAN003,Green Energy 24,0.2267,2026-03-02,3.53,1,3.53,0.8
+CUST00004,Jesse,Perez,Suarezbury,AR,PLAN004,Time-of-Use,0.2032,2026-03-02,2.36,1,2.36,0.48
+CUST00006,Diamond,Bennett,Donaldshire,NH,PLAN001,Fixed Rate 12,0.1418,2026-03-02,5.97,2,2.98,0.85
+CUST00008,Michelle,White,South Tina,KS,PLAN003,Green Energy 24,0.2267,2026-03-02,3.6,1,3.6,0.82
+CUST00010,April,Burton,Port Matthew,ME,PLAN005,Weekend Special,0.2211,2026-03-02,1.8,1,1.8,0.4
+CUST00012,Jennifer,Cameron,West Annette,VI,PLAN002,Variable Rate 6,0.1603,2026-03-02,6.36,3,2.12,1.02
+CUST00017,Diana,Campbell,Port Christopher,LA,PLAN002,Variable Rate 6,0.1603,2026-03-02,9,3,3,1.44
+CUST00018,Daniel,Young,Smithland,AL,PLAN003,Green Energy 24,0.2267,2026-03-02,8.21,4,2.05,1.86
+CUST00019,Tammy,Braun,South Morgan,CA,PLAN004,Time-of-Use,0.2032,2026-03-02,3.96,2,1.98,0.8
+CUST00020,Cameron,Morrison,Port Denise,WI,PLAN005,Weekend Special,0.2211,2026-03-02,1.86,1,1.86,0.41
+CUST00022,John,Peterson,Lisaville,FL,PLAN002,Variable Rate 6,0.1603,2026-03-02,7.71,2,3.86,1.24
+CUST00023,Rachel,Baker,Danielsstad,VA,PLAN003,Green Energy 24,0.2267,2026-03-02,7.72,3,2.57,1.75
+CUST00024,Julie,White,South Samuelland,WI,PLAN004,Time-of-Use,0.2032,2026-03-02,3.93,1,3.93,0.8
+CUST00025,Jason,Robinson,North John,HI,PLAN005,Weekend Special,0.2211,2026-03-02,0.35,1,0.35,0.08
+CUST00027,Mary,Bentley,Breannabury,WV,PLAN002,Variable Rate 6,0.1603,2026-03-02,7.42,2,3.71,1.19
+CUST00028,Robert,Benitez,Gutierrezview,MN,PLAN003,Green Energy 24,0.2267,2026-03-02,3.14,1,3.14,0.71
+CUST00031,Alan,Burke,Davidton,MI,PLAN001,Fixed Rate 12,0.1418,2026-03-02,5.46,2,2.73,0.77
+CUST00032,Christopher,Campos,East Debra,OK,PLAN002,Variable Rate 6,0.1603,2026-03-02,1.53,1,1.53,0.25
+CUST00034,Amanda,Nolan,New Taylor,NJ,PLAN004,Time-of-Use,0.2032,2026-03-02,3.03,3,1.01,0.62
+CUST00035,Danielle,Pitts,Michaelshire,MS,PLAN005,Weekend Special,0.2211,2026-03-02,4.65,1,4.65,1.03
+CUST00036,Terrance,Ramsey,Roberthaven,NH,PLAN001,Fixed Rate 12,0.1418,2026-03-02,0.37,1,0.37,0.05
+CUST00037,Tiffany,Woodard,Stephenchester,AR,PLAN002,Variable Rate 6,0.1603,2026-03-02,8.28,2,4.14,1.33
+CUST00038,Candice,Austin,Lopezhaven,IN,PLAN003,Green Energy 24,0.2267,2026-03-02,2.24,1,2.24,0.51
+CUST00039,Latasha,Wong,Johnsonfurt,NC,PLAN004,Time-of-Use,0.2032,2026-03-02,5.11,1,5.11,1.04
+CUST00041,Michael,Robertson,Jamiemouth,MS,PLAN001,Fixed Rate 12,0.1418,2026-03-02,0.55,1,0.55,0.08
+CUST00046,Jessica,Bennett,New Josephmouth,AK,PLAN001,Fixed Rate 12,0.1418,2026-03-02,2.65,1,2.65,0.38
+CUST00049,Joyce,Williams,Port Brendan,WA,PLAN004,Time-of-Use,0.2032,2026-03-02,5.29,1,5.29,1.07
+CUST00050,Alexandra,Morris,Bennettmouth,MI,PLAN005,Weekend Special,0.2211,2026-03-02,7.13,3,2.38,1.58
+CUST00007,John,Gallagher,Lake Elizabethshire,FL,PLAN002,Variable Rate 6,0.1603,2026-03-02,8.96,3,2.99,1.44
+CUST00021,Amy,Herrera,Port Jenniferville,MS,PLAN001,Fixed Rate 12,0.1418,2026-03-02,6.99,3,2.33,0.99
